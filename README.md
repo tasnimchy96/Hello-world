@@ -12,7 +12,7 @@
 - [:star:️ Show your support](#support)
 - [:pray: Acknowledgements](#acknowledgements)
 # :book: [Hello Microverse project]
-**[Hello Microverse project]** is a simple project that display a hello microverse message.
+**[Hello Microverse project]** is a microverse project where I learned about the best practices and used linters to to ensure clean code.
 ## :hammer_and_wrench: Built With
 ### Tech Stack
 **Client**
@@ -28,9 +28,11 @@ PostgreSQL
 ## :computer: Getting Started
 prints Hello Microverse in default browser.
 ### Prerequisites
-Clone this repository to your desired folder and open html file.
+In order to run this project you need: Any Browser e.g. Google Chrome
+### Setup
+Clone the repository inside your desired folder and run the .html file
 ## :busts_in_silhouette: Authors
-:bust_in_silhouette: **Emmanuel Ntihinyuka**
+:bust_in_silhouette: **Tasnim Ahmed Chowdhury**
 - GitHub: [@tasnimchy96](https://github.com/tasnimchy96)
 - Twitter:[@tasnimchy96](https://twitter.com/tasnimchy96)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tasnim-ahmed-chowdhury-b4504625b
