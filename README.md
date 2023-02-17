@@ -31,9 +31,10 @@ prints Hello Microverse in default browser.
 Clone this repository to your desired folder and open html file.
 ## :busts_in_silhouette: Authors
 :bust_in_silhouette: **Emmanuel Ntihinyuka**
-- GitHub: [@ntimanu](https://github.com/ntimanu)
-- Twitter:[@emmantihinyuka](https://twitter.com/emmantihinyuka)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ntihinyuka-emmanuel-511890104/)
+- GitHub: [@tasnimchy96](https://github.com/tasnimchy96)
+- Twitter:[@tasnimchy96](https://twitter.com/tasnimchy96)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tasnim-ahmed-chowdhury-b4504625b
+)
 ## :telescope: Future Features
 - [ ] **[Add more forms]**
 - [ ] **[Make an atractive Layout]**
