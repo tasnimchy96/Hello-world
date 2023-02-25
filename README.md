@@ -46,5 +46,5 @@ If you like this project feel free to share with your friends.
 ## :pray: Acknowledgments
 I would like to thank Microverse for this amazing exercise.
 ## 📝 License <a name="license"></a>
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
