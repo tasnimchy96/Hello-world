@@ -17,11 +17,7 @@
 ## :hammer_and_wrench: Built With
 ### Tech Stack
 **Client**
-React.js
-**Server**
-Express.js
-**Database**
-PostgreSQL
+HTML & CSS
 ### Key Features
 - **[When clicked it prints "Hello Microverse" in blue color]**
 ## :rocket: Live Demo
